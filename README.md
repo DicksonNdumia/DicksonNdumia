@@ -83,5 +83,12 @@ Real-time video communication app
 
 ---
 
+## 🔗 Previous GitHub Work  
+
+Some of my earlier projects and deployments were done on another GitHub account:  
+👉 https://github.com/DICKSON39  
+
+This includes work connected to Vercel deployments and earlier experiments.
+
 ## 🧠 Quote I Live By  
 > Code. Break. Fix. Repeat.  
