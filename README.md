@@ -55,6 +55,9 @@
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff)](#)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
 
 ---
 
